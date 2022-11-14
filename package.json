@@ -1,0 +1,22 @@
+{
+  "name": "beecrowd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "attackOnGasparini.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viictorivo/beecrowd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viictorivo/beecrowd/issues"
+  },
+  "homepage": "https://github.com/viictorivo/beecrowd#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
